@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ただ君に晴れ",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-02T09:48:19.041373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただ君に晴れ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_ただ君に晴れ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_ただ君に晴れ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_ただ君に晴れ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヨルシカ - ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_ヨルシカ_-_ただ君に晴れ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ただ君に晴れ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_ただ君に晴れ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ただ君に晴れ (Paused)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_ただ君に晴れ_(Paused)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ただ君に晴れ (「月と猫のダンス」 LIVE ver.)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_ただ君に晴れ_(「月と猫のダンス」_LIVE_ver.)_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ君に晴れ",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_ただ君に晴れ_ヨルシカ.txt"
+    }
+  ]
+}
